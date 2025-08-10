@@ -1,10 +1,10 @@
 # 🤖 Curso: Inteligencia Artificial con Aplicaciones en Economía I
 
-Bienvenido/a al curso "Inteligencia Artificial con Aplicaciones en Economía I", un programa de 64 horas diseñado para estudiantes de pregrado en Economía interesados en aprender Python, Machine Learning y ciencia de datos para resolver problemas económicos reales.
+Bienvenido/a al curso "Inteligencia Artificial con Aplicaciones en Economía I", un programa diseñado para estudiantes de pregrado en Economía interesados en aprender Python, Machine Learning y Ciencia de Datos para resolver problemas económicos reales.
 
 ## 🎯 Objetivo del curso
 
-Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos económicos utilizando herramientas modernas de programación, bases de datos y algoritmos de Inteligencia Artificial.
+Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos socioeconómicos utilizando herramientas modernas de programación, bases de datos y algoritmos de Inteligencia Artificial.
 
 ## 🚀 Lo que aprenderás
 
@@ -55,10 +55,13 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
 ## 📂 Estructura del repositorio
 ```
 📦 curso-ia-economia
- ┣ 📂 clases              # Presentaciones y Jupyter Notebooks
- ┣ 📂 datasets            # Conjuntos de datos utilizados
- ┣ 📄 README.md           # Este archivo
- ┗ 📄 requirements.txt    # Librerías necesarias
+ ┣ 📂 clases                            # Presentaciones y Jupyter Notebooks vistos en clase
+ ┣ 📂 datasets                          # Conjuntos de datos utilizados en clase
+ ┣ 📄 0_instalacion_librerias.ipynb     # Notebook sobre cómo instalar librerías
+ ┣ 📄 2025_II_Programa_IA_economia.pdf  # Programa del curso
+ ┣ 📄 README.md                         # Este archivo
+ ┣ 📄 requirements.txt                  # Librerías necesarias para este repositorio
+ ┗ 📄 version_python.txt                # Versión de Python utilizada
 ```
 
 ## 💡 Autor
