@@ -9,7 +9,7 @@ Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos 
 ## 🚀 Lo que aprenderás
 
 - Programar en Python desde cero, incluyendo Programación Orientada a Objetos (POO).
-- Conectarte a fuentes de datos económicas reales (APIs, web scraping, bases estructuradas y no estructuradas).
+- Conectarte a fuentes de datos económicas reales (APIs, bases estructuradas y no estructuradas).
 - Analizar, transformar y visualizar datos económicos con herramientas como Numpy, Pandas, Matplotlib y Seaborn, entre otras.
 - Aplicar algoritmos de machine learning supervisado y no supervisado para detectar patrones, clasificar y predecir variables socioeconómicas.
 - Evaluar el desempeño de tus modelos y comunicar los resultados.
@@ -60,6 +60,7 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
  ┣ 📂 datasets                          # Conjuntos de datos utilizados en clase
  ┣ 📄 0_instalacion_librerias.ipynb     # Notebook sobre cómo instalar librerías
  ┣ 📄 2025_II_Programa_IA_economia.pdf  # Programa del curso
+ ┣ 📄 LICENSE.md                        # Licencia MIT
  ┣ 📄 README.md                         # Este archivo
  ┣ 📄 requirements.txt                  # Librerías necesarias para este repositorio
  ┗ 📄 version_python.txt                # Versión de Python utilizada
