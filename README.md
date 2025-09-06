@@ -78,3 +78,6 @@ Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, M
 📧 Email: [lmcastroco@gmail.com](mailto:lmcastroco@gmail.com)
 
 🔗 Linkedin: www.linkedin.com/in/lina-maria-castro
+
+## 📄 Licencia
+Este repositorio está bajo la Licencia MIT. Ver el archivo LICENSE.md para más detalles.
