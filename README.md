@@ -75,7 +75,6 @@ Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, M
 
 🎓 Docente de cátedra Facultad de Economía - Universidad Externado de Colombia. 
 
-📧 Contacto: lmcastroco@gmail.com
+📧 Email: [lmcastroco@gmail.com](mailto:lmcastroco@gmail.com)
 
-🔗 [Linkedin:](www.linkedin.com/in/lina-maria-castro) www.linkedin.com/in/lina-maria-castro
-
+🔗 [Linkedin:](https://www.linkedin.com/in/lina-maria-castro) www.linkedin.com/in/lina-maria-castro
