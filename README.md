@@ -14,14 +14,15 @@ Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos 
 - Aplicar algoritmos de machine learning supervisado y no supervisado para detectar patrones, clasificar y predecir variables socioeconómicas.
 - Evaluar el desempeño de tus modelos y comunicar los resultados.
 - Desarrollar un proyecto aplicado de principio a fin con datos reales, donde pondrás a prueba todo lo aprendido.
+- Construir un portafolio profesional en GitHub.
 
 ## 📚 Estructura de contenidos
 
 1. Introducción y conceptos fundamentales
 2. Python y POO
 3. Análisis y visualización de datos en Python
-4. Machine Learning supervisado
-5. Machine Learning no supervisado
+4. Machine Learning no supervisado
+5. Machine Learning supervisado
 
 ## 🛠 Herramientas utilizadas
 
@@ -68,6 +69,13 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
 
 **Lina María Castro**
 
-Economista y Magíster en Ciencia de Datos y Economía
+Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, Magíster en Ciencias Económicas y Economista de la Universidad Nacional de Colombia.
 
-📧 Contacto: [lmcastroco@gmail.com]
+💼 Asesora Senior de Analítica - Gerencia de Inteligencia Comercial - ProColombia.
+
+🎓 Docente de cátedra Facultad de Economía - Universidad Externado de Colombia. 
+
+📧 Contacto: lmcastroco@gmail.com
+
+🔗 [Linkedin:](www.linkedin.com/in/lina-maria-castro) www.linkedin.com/in/lina-maria-castro
+
