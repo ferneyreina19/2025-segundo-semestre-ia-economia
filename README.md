@@ -67,7 +67,7 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
 
 ## 💡 Autor
 
-**Lina María Castro**
+[**Lina María Castro**](https://www.linkedin.com/in/lina-maria-castro)
 
 Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, Magíster en Ciencias Económicas y Economista de la Universidad Nacional de Colombia.
 
@@ -77,4 +77,4 @@ Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, M
 
 📧 Email: [lmcastroco@gmail.com](mailto:lmcastroco@gmail.com)
 
-🔗 [Linkedin:](https://www.linkedin.com/in/lina-maria-castro) www.linkedin.com/in/lina-maria-castro
+🔗 Linkedin: www.linkedin.com/in/lina-maria-castro
