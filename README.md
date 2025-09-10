@@ -8,7 +8,7 @@ Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos 
 
 ## 🚀 Lo que aprenderás
 
-- Programar en Python desde cero, incluyendo Programación Orientada a Objetos (POO).
+- Programar en Python desde cero.
 - Conectarte a fuentes de datos económicas reales (APIs, bases estructuradas y no estructuradas).
 - Analizar, transformar y visualizar datos económicos con herramientas como Numpy, Pandas, Matplotlib y Seaborn, entre otras.
 - Aplicar algoritmos de machine learning supervisado y no supervisado para detectar patrones, clasificar y predecir variables socioeconómicas.
@@ -19,7 +19,7 @@ Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos 
 ## 📚 Estructura de contenidos
 
 1. Introducción y conceptos fundamentales
-2. Python y POO
+2. Programación en Python
 3. Análisis y visualización de datos en Python
 4. Machine Learning no supervisado
 5. Machine Learning supervisado
