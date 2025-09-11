@@ -1,0 +1,30 @@
+[
+    {
+        "pais_iso":"COL",
+        "PIB_per_capita":7917,
+        "Inflacion":6.61,
+        "Exportaciones":49600,
+        "poblacion_millones":52.1
+    },
+    {
+        "pais_iso":"MEX",
+        "PIB_per_capita":13954,
+        "Inflacion":4.72,
+        "Exportaciones":680790,
+        "poblacion_millones":128.9
+    },
+    {
+        "pais_iso":"PER",
+        "PIB_per_capita":8316,
+        "Inflacion":2.01,
+        "Exportaciones":74700,
+        "poblacion_millones":34.0
+    },
+    {
+        "pais_iso":"BRA",
+        "PIB_per_capita":10296,
+        "Inflacion":4.83,
+        "Exportaciones":337000,
+        "poblacion_millones":null
+    }
+]
